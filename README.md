@@ -7,4 +7,4 @@ This program, will cover edge cases like: 1. empty inputs, 2. inputs with fewer 
 
 to run:
 
-hexdump <filename> 
+hexdump filename 

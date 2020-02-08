@@ -15,7 +15,6 @@ def Main():
                 while True:
                     data = inputFile.read(16)
                     if len(data) == 0:
-                        #print("{:08x}".format(blockOffset + len(data)))
                         break
 
                     PIPE = "|" #chr(124)
